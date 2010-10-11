@@ -223,6 +223,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\src\ScriptVariant.cpp"
+				>
+			</File>
+			<File
 				RelativePath="..\src\Window.cpp"
 				>
 			</File>
@@ -324,6 +328,10 @@
 			</File>
 			<File
 				RelativePath="..\include\berkelium\Rect.hpp"
+				>
+			</File>
+			<File
+				RelativePath="..\include\berkelium\ScriptVariant.hpp"
 				>
 			</File>
 			<File
